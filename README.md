@@ -112,10 +112,3 @@ It can be used as a learning tool for students and developers who want to unders
 * Add algorithm complexity information
 * Provide controls for array size and generation
 
-## License
-
-This project is intended for educational and development purposes.
-
-
-deployed link to the project :- 
-https://sort-simulator.vercel.app/
